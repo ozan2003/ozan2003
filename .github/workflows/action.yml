@@ -31,7 +31,7 @@ jobs:
           #, activity
           base_indepth: yes
           config_timezone: Europe/Istanbul
-          plugin_activity: yes
+          #plugin_activity: yes
           #plugin_activity_days: 14
           #plugin_activity_filter: all
           #plugin_activity_limit: 4
