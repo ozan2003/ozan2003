@@ -49,5 +49,10 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugins_licenses: yes
-          plugins_indepth: yes
+          # Licenses plugin  
+          plugin_licenses: yes
+          plugin_licenses_legal: yes  
+          plugin_licenses_ratio: no
+          # follow up
+          plugin_followup: yes
+          plugin_followup_indepth: yes
