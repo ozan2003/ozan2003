@@ -1,6 +1,6 @@
 # About Me
 
-Senior computer engineering student focused on network systems and protocols.
+Senior computer engineering student focused on network systems and security.
 
 Working with Python, Rust, and learning C and C#.
 
