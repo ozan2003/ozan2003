@@ -1,8 +1,8 @@
 # About Me
 
-Senior computer engineering student focused on network systems and security.
+A computer engineer focused on network systems and security.
 
-Working with Python, Rust, C# and learning C.
+Working with Python, Rust, C#.
 
 Resume: [EN (PDF)](https://ozan2003.github.io/data/cv/en/Ozan_Malcı_EN_CV.pdf) · [TR (PDF)](https://ozan2003.github.io/data/cv/tr/Ozan_Malcı_CV.pdf)
 
